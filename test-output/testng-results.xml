@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-02-21T13:52:55 IST" name="Default suite" finished-at="2024-02-21T13:52:59 IST" duration-ms="4263">
+    <groups>
+    </groups>
+    <test started-at="2024-02-21T13:52:55 IST" name="Default test" finished-at="2024-02-21T13:52:59 IST" duration-ms="4263">
+      <class name="GoogleMapsApi.demo">
+        <test-method signature="demo()[pri:0, instance:GoogleMapsApi.demo@14555e0a]" started-at="2024-02-21T13:52:55 IST" name="demo" finished-at="2024-02-21T13:52:59 IST" duration-ms="4231" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- demo -->
+      </class> <!-- GoogleMapsApi.demo -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
